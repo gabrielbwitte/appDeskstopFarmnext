@@ -64,5 +64,7 @@ img {
     transition: 300ms;
 }
 
-
-
+p {
+    color: rgb(180, 2, 2);
+    font-size: 12px;
+}
